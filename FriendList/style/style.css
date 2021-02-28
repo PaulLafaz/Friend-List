@@ -1,0 +1,73 @@
+html{
+	font-family: sans-serif;      /* The font for the whole assignment */
+}
+
+body{
+	background-color: #DDDDDD;		/* The background colour for the whole assignment*/
+}
+
+h1{
+	text-align: center;			/* Position the headers in the middle*/
+}
+
+table{
+	
+	table-layout: fixed;
+	width: 20%;
+	margin-left:40%; 			 /* Position the table in the middle*/
+    margin-right:15%;
+}
+
+td{
+	width: 75px;
+	text-align: center;				/* Position the content of the table in the middle of the cells */
+}
+
+nav{
+	text-align: center;			/* Position the links to other pages*/
+	 padding: 20px 20px ;
+}
+
+nav a {
+	 padding: 14px 16px ;
+}
+
+p{
+	text-align: center;  		/* Position the paragraphs*/
+}
+
+.align{
+	display: inline-block;
+    float: left;
+    clear: left;					/* Position the content and the size of the labels in the forms*/
+    width: 150px;
+    text-align: center;
+}
+
+.main{
+	margin-left:43%; 			/* Position the forms */
+    margin-right: 15%;
+}
+
+.subButton{
+	width:100px;
+    margin-left:80px;		/* Position the submit buttons in both of the main forms (signup and login)*/
+    margin-right:5px;
+	margin-top:10px;
+}
+							
+.resetButton{
+	width:100px;
+    margin-left:5px;
+    margin-right:5px;		/* Position the reset buttons in both of the main forms (signup and login)*/
+	margin-top:10px;
+}
+
+li{
+	margin-left:500px;		/* Position the questions and answers that are located in the about page*/
+    margin-right:100px;
+}
+
+h3{
+	text-align: center;			/* Position the headers in the middle*/
+}
