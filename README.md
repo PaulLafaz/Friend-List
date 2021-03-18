@@ -1,11 +1,11 @@
 # Friend-List
 
+### Overview
 This is a Friend List web application I've created whist studying Web Application Develoment at Swinburne University.
 The following code presents a web app that allows users to create an account that hold their friends as well as some 
 basic information about them.
 
-In more detail about the application:
-
+### Interesting Facts:
 * Initially this web app was hosted on Swinburne's Mercury Server but for the sake of testing Xampp was used.
 
 * The user can sign up and login to their friend list
