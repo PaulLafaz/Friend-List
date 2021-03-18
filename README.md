@@ -19,12 +19,12 @@ want to be friends with.
 
  _User's Friend List_ |  
 -----------------------------------------------| 
-<img src="https://github.com/PaulLafaz/Friend-List/blob/main/images/friendList.PNG" /> |
+<img src="https://github.com/PaulLafaz/Friend-List/blob/main/images/friendList.PNG" width="544" height="534" /> |
 
 * The user can also go to the **'Add Frined Page'** where they can add any user in the database as their friend.
 
 _Add Friends Page_ |  
 -----------------------------------------------| 
-<img src="https://github.com/PaulLafaz/Friend-List/blob/main/images/addFriendList.PNG" /> |
+<img src="https://github.com/PaulLafaz/Friend-List/blob/main/images/addFriendList.PNG" width="550" height="475"/> |
 
 * Initially this web app was hosted on Swinburne's Mercury Server but for the sake of testing Xampp was used.
