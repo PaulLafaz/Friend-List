@@ -5,6 +5,9 @@ The following code presents a web app that allows users to create an account tha
 basic information about them.
 
 In more detail about the application:
+
+* Initially this web app was hosted on Swinburne's Mercury Server but for the sake of testing Xampp was used.
+
 * The user can sign up and login to their friend list
 
  _Login Page:_ | _Signup Page:_
@@ -25,10 +28,11 @@ want to be friends with.
 -----------------------------------------------| 
 <img src="https://github.com/PaulLafaz/Friend-List/blob/main/images/friendList.PNG" width="544" height="534" /> |
 
+<br>
+
 * The user can also go to the **'Add Frined Page'** where they can add any user in the database as their friend.
 
 _Add Friends Page_ |  
 -----------------------------------------------| 
 <img src="https://github.com/PaulLafaz/Friend-List/blob/main/images/addFriendList.PNG" width="550" height="475"/> |
 
-* Initially this web app was hosted on Swinburne's Mercury Server but for the sake of testing Xampp was used.
