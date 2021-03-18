@@ -12,8 +12,12 @@ In more detail about the application:
 <img src="https://github.com/PaulLafaz/Friend-List/blob/main/images/loginPage.PNG"> | <img src="https://github.com/PaulLafaz/Friend-List/blob/main/images/signupPage.PNG">
 
 * There is a great level of input validation with a "Password" and "Confirm Password Feature".
+
+
 * The details of all users are store in an SQL database using phpMyAdmin. The database contains 2 seperate tables, 1 for storing the login information
 and 1 for containing their user they have in their friend list.
+
+
 * As soon as the user logs in, they get redirected to their friend list. There, the user has the option of "Unfriending" users they no longer
 want to be friends with.
 
